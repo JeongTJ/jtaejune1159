@@ -1,5 +1,7 @@
 ### Hi there 👋
 I'm Taejune Jeong
+
+[velog](https://velog.io/@xowns0269/posts)
 <!--
 **jtaejune1159/jtaejune1159** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
